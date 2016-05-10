@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>backdrop.jpg</file>
+        <file>background_pic2.jpg</file>
+        <file>mute.jpg</file>
+        <file>spell_icon_backup.jpg</file>
+        <file>player_icon.png</file>
+        <file>ladder.png</file>
+        <file>zombie1.png</file>
+        <file>zombie2.png</file>
+        <file>stage_background.jpg</file>
+        <file>coffin_icon2.png</file>
+        <file>RIP_icon.png</file>
+        <file>spell_icon2.png</file>
+        <file>player_icon_left.png</file>
+    </qresource>
+</RCC>
